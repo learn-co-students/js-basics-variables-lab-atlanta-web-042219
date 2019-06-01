@@ -37,6 +37,7 @@
     "chai-spies-next": "^0.9.3"
   },
   "dependencies": {
+    "eslint": "^5.16.0",
     "sinon": "^7.3.2"
   }
 }
